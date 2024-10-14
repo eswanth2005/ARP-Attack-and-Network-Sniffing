@@ -25,6 +25,8 @@ sudo arpspoof -i eth0 -t <target system> <gateway>
 ## OUTPUT:
 ![Screenshot (220)](https://github.com/user-attachments/assets/4379bb56-4e50-41f0-a109-cab19ae09361)
 
+### DSNIFF:-
+
  dsniff:In Metasploit open the ftp console as below. Also you can try other ftp websites ftp.vim.org
 ## OUTPUT:
 ![Screenshot (222)](https://github.com/user-attachments/assets/c88e0350-4914-49f8-ba86-5ba330625e36)

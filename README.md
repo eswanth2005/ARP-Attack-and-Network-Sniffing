@@ -35,7 +35,7 @@ sudo arpspoof -i eth0 -t <target system> <gateway>
 In Kali issue the following commands:
 sudo dsnifff
 ## OUTPUT:
-![O4](https://github.com/user-attachments/assets/39432531-60aa-4d43-8e30-eae0e4349de5)
+![374083629-39432531-60aa-4d43-8e30-eae0e4349de5](https://github.com/user-attachments/assets/532c199c-f22c-4700-a3c2-25be92facc2d)
 
 
 Invoke the wireshark and examine the various menus  and controls of the tool:
